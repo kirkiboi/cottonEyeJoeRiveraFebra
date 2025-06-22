@@ -163,5 +163,7 @@ transition: background-color 0.3s ease, transform 0.2s ease;
 }
 .apology-message{
     padding:1em;
+ }
+.apology-message span{
     font-size: 1.5em;
 }
